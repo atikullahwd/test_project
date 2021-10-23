@@ -1,0 +1,24 @@
+.carousel-inner{
+    height: 500px;
+}
+
+/* .progress-edit {
+    margin-bottom: 10px;
+} */
+
+.pregres-title{
+    margin-left: 23px;
+}
+
+.get-in-touch{
+    background-image: url(/image/calltoaction.jpg);
+}
+
+.get-in-tuch-content{
+    position: relative;
+    margin: 0px auto;
+}
+
+.get-in-tuch-content h4{
+    text-align: center;
+}
